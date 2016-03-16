@@ -1,0 +1,10 @@
+You will Find "json-file.py" and "jsonconv.py" file attached within this repository.
+It is json to python converter files.
+You need to have python installed in your computer to run .py files.
+
+If you have python installed on your computer, then just follow few easy steps to convert .json files to .csv files.
+
+Step 1: copy .py file with your .json files.
+Step 2: Locate your .json and .py files using Terminal (Apple Mac) or WindowsPowerShell (Windows).
+step 3: type "python '*'.py '*'.json" and Hit Enter.
+Your json file will convert into .csv file soon at the same location as you .json files.
